@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklitttley_blog=self.webpackChunklitttley_blog||[]).push([[2866],{2152:s=>{s.exports=JSON.parse('{"label":"css","permalink":"/docs/tags/css","allTagsPath":"/docs/tags","count":1,"items":[{"id":"html-css-js/css-demo01","title":"css discover price on hover","description":"discover-price-on-hover","permalink":"/docs/html-css-js/css-demo01"}]}')}}]);
