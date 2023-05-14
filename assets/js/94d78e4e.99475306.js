@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkming_yi_shan_xiang_bu=self.webpackChunkming_yi_shan_xiang_bu||[]).push([[5094],{82154:a=>{a.exports=JSON.parse('{"permalink":"/tianji/page/21","page":21,"postsPerPage":2,"totalPages":25,"totalCount":50,"previousPage":"/tianji/page/20","nextPage":"/tianji/page/22","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
